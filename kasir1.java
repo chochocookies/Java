@@ -30,6 +30,9 @@ public class kasir1 {
         System.out.println(nm_brg2 + "\t" + qty2 + "\t" + hrg2 + "\t\t" + total_hrg2);
         System.out.println("----------------------------------------------------------------");
         System.out.println("Subtotal = " + subtotal);
+        System.out.println("Ppn (10%) = " + Math.round(ppn));
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("Subtotal = " + total_qty);
         System.out.println("Ppn (10%) = " + Math.round(total));
         System.out.println("================================================================");
         System.out.println();

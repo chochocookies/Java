@@ -24,7 +24,7 @@ public class kasir1 {
         System.out.println(alamat1);
         System.out.println(alamat2);
         System.out.println("----------------------------------------------------------------");
-        System.out.println("Nama Barang" + "\t\t" + "Qty" + "\t\t" + "Harga" + "\t\t" + "Total");
+        System.out.println("Nama Barang" + "\t\t" + "Qty" + "\t" + "Harga" + "\t\t" + "Total");
         System.out.println("----------------------------------------------------------------");
         System.out.println(nm_brg1 + "\t" + qty1 + "\t" + hrg1 + "\t\t" + total_hrg1);
         System.out.println(nm_brg2 + "\t" + qty2 + "\t" + hrg2 + "\t\t" + total_hrg2);
